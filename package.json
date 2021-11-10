@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@vanilla-extract/css": "^1.6.3"
+  },
+  "devDependencies": {
+    "esbuild": "^0.13.13",
+    "@vanilla-extract/esbuild-plugin": "^2.0.0"
+  },
+  "name": "esbuild-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./build/build.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
